@@ -248,7 +248,6 @@ namespace CadastroFuncionarios
             tsbBuscar.Text = "";
             txtNome.Focus();
 
-
         }
 
         private void tsbExcluir_Click(object sender, EventArgs e)
@@ -303,12 +302,6 @@ namespace CadastroFuncionarios
                 txtCidade.Text = "";
                 txtUF.Text = "";
                 mskTelefone.Text = "";
-
-
-
-
-
-
 
             }
         }
